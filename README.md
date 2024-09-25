@@ -4,7 +4,7 @@
 
 # 💫 About Me:
 👩‍💻 I'm a BTech Computer Science student passionate about coding and tech innovations.<br>🛠️ Developing my problem-solving skills through C programming and algorithms. <br>🚀 Always eager to learn, improve, and tackle new challenges!<br>🔭 I’m currently working on Mini projects. <br>🌱 I’m currently learning C, JAVA, HTML, CSS. 
-⚡Fun Fact : Artist and Programmer neaver quits 💪
+⚡Artist and Programmer neaver quits 💪
           
 
 ## 🌐 Socials:
