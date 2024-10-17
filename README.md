@@ -3,7 +3,7 @@
 <h3 align="center">Right now I am pursuing my Btech 🎓 Developing my problem-solving skills through C programming</h3>
 
 # 💫 About Me:
-👩‍💻 I'm a BTech Computer Science student passionate about coding and tech innovations.<br>🛠️ Developing my problem-solving skills through C programming and algorithms. <br>🚀 Always eager to learn, improve, and tackle new challenges!<br>🔭 I’m currently working on Mini projects. <br>🌱 I’m currently learning C, JAVA, HTML, CSS. 
+👩‍💻 I'm a BTech Computer Science student passionate about coding and tech innovations.<br>🛠️ Developing my problem-solving skills through C programming and algorithms. <br>🚀 Always eager to learn, improve, and tackle new challenges!<br>🔭 I’m currently working on Mini projects. <br>🌱 I’m currently learning C,Python,JAVA, HTML, CSS. 
 ⚡Artists and Programmers neaver quits 💪
           
 
