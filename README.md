@@ -13,9 +13,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vigneshramesh-13j01) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/vicky_techie18?t=9Q0lkuvwGz46YJMEtSIeDw&s=09) 
 
-## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@glorycrafter07/30-nites-of-code)  
-  ![@glorycrafter07 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=glorycrafter07)
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
