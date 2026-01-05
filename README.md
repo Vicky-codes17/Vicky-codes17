@@ -1,4 +1,4 @@
-<img align="center" alt="banner" width="950"  src="https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png">
+<img align="center" alt="banner" width="950"  src="https://drive.google.com/file/d/11Bm-18PAxtmDKqSEnkLKbGqCPXsm5uiw/view?usp=drive_link">
 <h1 align="center">Hi 👋, I'm Vignesh Ramesh</h1>
 <h3 align="center">Right now I am pursuing my Btech 🎓 Developing my problem-solving skills through C programming</h3>
 
